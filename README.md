@@ -62,7 +62,7 @@ Key Results & Insights
 •	Discounts influence purchases but require careful optimization
 How to Run This Project
 1.	Clone the repository
-2.	git clone https://github.com/your-username/customer-shopping-analysis.git
+2.	git clone https://github.com/Apetbally/customer-shopping-analysis.git
 3.	Run the Python notebooks
 Open Jupyter Notebook
 Install required libraries:
